@@ -8536,10 +8536,10 @@ listr2@^3.2.2:
     through "^2.3.8"
     wrap-ansi "^7.0.0"
 
-little-state-machine@4.1.0:
-  version "4.1.0"
-  resolved "https://registry.yarnpkg.com/little-state-machine/-/little-state-machine-4.1.0.tgz#8ca1eae22ea2408e97dc82097b4aa3fe1f96a199"
-  integrity sha512-JeWPyIwnhYGheF10h8DY9+OnEwJ0waRzyXP/WclB3Bqg5v1+xwruXTtDvTow/69ZBAuRlYT5Apl+I8TN+HMp9g==
+little-state-machine@4.2.3:
+  version "4.2.3"
+  resolved "https://registry.yarnpkg.com/little-state-machine/-/little-state-machine-4.2.3.tgz#1599d9a280577e48b41abb50e6e6073bf022c33e"
+  integrity sha512-USuzo9sbmvvJwZVKUpcjw+pBmmTJKPRJgpjRpTFN0j2uzvH8K4wxd9ueuoRUqJI26FSWB5SnGqt7vbEz8EYSEg==
 
 little-state-machine@^3.0.1:
   version "3.1.4"
